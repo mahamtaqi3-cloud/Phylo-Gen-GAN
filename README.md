@@ -12,6 +12,27 @@ Traditional ASR methods rely heavily on statistical models like Maximum Likeliho
 * **Interdisciplinary Approach:** Combines bioinformatics principles with modern AI optimization.
 * **Benchmarking:** Validated against classical phylogenetic models in MEGA12 to ensure biological plausibility.
 
+
+---
+
+### 🧬 Species Dataset
+
+The model has been trained and validated using sequences from the following species, representing a diverse evolutionary range:
+
+* **Musca domestica** (Housefly)
+* **Salvia splendens** (Scarlet sage)
+* **Crinia signifera** (Common eastern froglet)
+* **Danio rerio** (Zebrafish)
+* **Gallus gallus** (Red junglefowl)
+* **Mus musculus** (House mouse)
+* **Oryctolagus cuniculus** (European rabbit)
+* **Pongo pygmaeus** (Bornean orangutan)
+* **Pan paniscus** (Bonobo)
+* **Pan troglodytes** (Chimpanzee)
+
+---
+
+
 ## 🛠 Technologies Used
 
 * **Languages:** Python
