@@ -15,20 +15,24 @@ Traditional ASR methods rely heavily on statistical models like Maximum Likeliho
 
 ---
 
-### 🧬 Species Dataset
 
-The model has been trained and validated using sequences from the following species, representing a diverse evolutionary range:
+### 🧬 Methodology & Dataset
 
-* **Musca domestica** (Housefly)
-* **Salvia splendens** (Scarlet sage)
-* **Crinia signifera** (Common eastern froglet)
-* **Danio rerio** (Zebrafish)
-* **Gallus gallus** (Red junglefowl)
-* **Mus musculus** (House mouse)
-* **Oryctolagus cuniculus** (European rabbit)
-* **Pongo pygmaeus** (Bornean orangutan)
-* **Pan paniscus** (Bonobo)
-* **Pan troglodytes** (Chimpanzee)
+The analysis is based on **18S ribosomal RNA (rRNA)** sequences, a highly conserved gene essential for accurate phylogenetic reconstruction. The model was trained and validated using sequences from the following species, representing a diverse evolutionary range:
+
+* **18S rRNA Target:** All analyses were performed on orthologous 18S rRNA gene sequences retrieved from NCBI.
+* **Species Dataset:**
+* *Musca domestica* (Housefly)
+* *Salvia splendens* (Scarlet sage)
+* *Crinia signifera* (Common eastern froglet)
+* *Danio rerio* (Zebrafish)
+* *Gallus gallus* (Red junglefowl)
+* *Mus musculus* (House mouse)
+* *Oryctolagus cuniculus* (European rabbit)
+* *Pongo pygmaeus* (Bornean orangutan)
+* *Pan paniscus* (Bonobo)
+* *Pan troglodytes* (Chimpanzee)
+
 
 ---
 
