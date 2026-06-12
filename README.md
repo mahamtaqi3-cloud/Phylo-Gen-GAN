@@ -47,13 +47,13 @@ git clone https://github.com/mahamtaqi3-cloud/Phylo-Gen-GAN.git
 ```bash
 
 ```
-
-
-
 python generate.py
+
+
 
 ```
 
 ## 🤝 Contribution
+
 Contributions to improve the model's accuracy or to integrate new phylogenetic constraints are welcome. Please open an issue or submit a pull request.
 
