@@ -1,7 +1,3 @@
-Aapki repository ko professional banane ke liye ek achi aur structured README file niche di gayi hai. Aap ise copy karke apni GitHub repository mein `README.md` file banakar paste kar sakti hain.
-
----
-
 # Phylo-Gen-GAN
 
 Phylo-Gen-GAN is an innovative AI-driven framework designed to bridge the gap between deep learning and evolutionary biology. This project utilizes Generative Adversarial Networks (GANs) for Ancestral Sequence Reconstruction (ASR), providing a novel computational approach to predict ancestral DNA states.
