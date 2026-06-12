@@ -26,32 +26,37 @@ Traditional ASR methods rely heavily on statistical models like Maximum Likeliho
 * `generate.py`: Inference script to reconstruct ancestral sequences.
 * `README.md`: Project documentation.
 
-## 💡 How to Run
+Aap bilkul sahi keh rahi hain, `image_8550be.png` mein woh formatting thori kharab lag rahi hai kyunki wo `bash` code block sahi se display nahi ho raha. GitHub README mein formatting ko perfect karne ke liye, aapko backticks (```) ka istemal sahi jagah karna hoga.
 
-1. Clone the repository:
+Apni README file ko **Edit** karke yeh text replace kar dein, yeh perfectly display hoga:
+
+---
+
+### 💡 How to Run
+
+**1. Clone the repository:**
+
 ```bash
-git clone https://github.com/mahamtaqi3-cloud/Phylo-Gen-GAN.git
+git clone [https://github.com/mahamtaqi3-cloud/Phylo-Gen-GAN.git](https://github.com/mahamtaqi3-cloud/Phylo-Gen-GAN.git)
 
 ```
 
+**2. Install dependencies:**
 
-
-```
-2. Install dependencies:
-   ```bash
-   pip install torch numpy
-
-```
-
-3. Run the generator script:
 ```bash
+pip install torch numpy
 
 ```
+
+**3. Run the generator script:**
+
+```bash
 python generate.py
 
-
-
 ```
+
+---
+
 
 ## 🤝 Contribution
 
