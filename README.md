@@ -26,9 +26,6 @@ Traditional ASR methods rely heavily on statistical models like Maximum Likeliho
 * `generate.py`: Inference script to reconstruct ancestral sequences.
 * `README.md`: Project documentation.
 
-Aap bilkul sahi keh rahi hain, `image_8550be.png` mein woh formatting thori kharab lag rahi hai kyunki wo `bash` code block sahi se display nahi ho raha. GitHub README mein formatting ko perfect karne ke liye, aapko backticks (```) ka istemal sahi jagah karna hoga.
-
-Apni README file ko **Edit** karke yeh text replace kar dein, yeh perfectly display hoga:
 
 ---
 
